@@ -1,5 +1,23 @@
 # Changelog
 
+## [2025.7.21](https://github.com/jdx/mise/compare/v2025.7.20..v2025.7.21) - 2025-07-22
+
+### 🚀 Features
+
+- **(packaging)** add COPR publishing workflow and documentation by [@jdx](https://github.com/jdx) in [#5719](https://github.com/jdx/mise/pull/5719)
+
+### 🐛 Bug Fixes
+
+- copr docker building by [@jdx](https://github.com/jdx) in [#5748](https://github.com/jdx/mise/pull/5748)
+
+### 🧪 Testing
+
+- fix asset detector test on musl by [@jdx](https://github.com/jdx) in [#5744](https://github.com/jdx/mise/pull/5744)
+
+### Chore
+
+- use 302 redirects for curl installs by [@jdx](https://github.com/jdx) in [#5747](https://github.com/jdx/mise/pull/5747)
+
 ## [2025.7.20](https://github.com/jdx/mise/compare/v2025.7.19..v2025.7.20) - 2025-07-22
 
 ### 🚀 Features
